@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "369756538816",
+    "firebase_url": "https://asdasd-487a4.firebaseio.com",
+    "project_id": "asdasd-487a4",
+    "storage_bucket": "asdasd-487a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369756538816:android:8ccac84f11733552496a25",
+        "android_client_info": {
+          "package_name": "com.swaroop2000.loginfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369756538816-o7k46rs193c6p9a4rm56ti9h83bjp4gt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBQq9qbJL2BaGi6s4kSkLtH1yryMCJSAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369756538816-o7k46rs193c6p9a4rm56ti9h83bjp4gt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
